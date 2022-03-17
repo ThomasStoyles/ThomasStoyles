@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thomas Stoyles
-- 👀 I’m interested in AI and Website Design
-- 🌱 I’m currently learning Computer Science
+- 👀 I’m interested in Machine Learning and Website Design
+- 🌱 I’m have graduated with a first Computer Science
 - 📫 You can reach me on Linkedin 
 
 <!---
